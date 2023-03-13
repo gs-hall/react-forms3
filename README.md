@@ -1,2 +1,2 @@
-# netology-react-forms3
+# react-forms3
 Photo manager
